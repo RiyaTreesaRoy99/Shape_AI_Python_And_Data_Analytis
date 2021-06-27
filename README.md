@@ -1,1 +1,0 @@
-# Shape_AI_Python_And_Data_Analytis
